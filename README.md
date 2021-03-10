@@ -32,7 +32,7 @@
 [website]: https://devfalah.com
 
 [twitter]: https://twitter.com/devfalah
-[youtube]: https://youtube.com/UCxa4vBf0_23X-zwFnBTHEOg
+[youtube]: https://www.youtube.com/channel/UCxa4vBf0_23X-zwFnBTHEOg
 [instagram]: https://instagram.com/devfalah
 [linkedin]: https://linkedin.com/in/devfalah
 
