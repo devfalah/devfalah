@@ -25,7 +25,7 @@
 ![My github stats](https://github-readme-stats.vercel.app/api?username=devfalah&show_icons=true)
 
 #### Programming language i am using :
-<img src="https://img.shields.io/badge/dart-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/dart-%23ED8B00.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
 
