@@ -20,7 +20,7 @@
 
   - Watchin Youtube, Reading Books, Action, Comics,Historical Fiction, Romance, History books.
 
-  - Learning programming and getting knowledge about AI & ML.
+  - Learning programming and getting knowledge about Flutter.
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=devfalah&show_icons=true)
 
