@@ -25,8 +25,8 @@
 ![My github stats](https://github-readme-stats.vercel.app/api?username=devfalah&show_icons=true)
 
 #### Programming language i am using :
-<img src="https://img.shields.io/badge/dart-%23ED8B00.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+ <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/>
+  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-icon.svg" alt="dart" width="22" height="22"/>
 
 
 
@@ -34,7 +34,7 @@
 <p align="left"><img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="22" height="22"/> 
     <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> 
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/>
+ 
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/>
 
