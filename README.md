@@ -31,15 +31,19 @@
 #### Frameworks  i am using :
   <p align="left"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/>
 
-
+#### Version Controls :
+<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> 
+   <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="git" width="22" height="22"/> 
+    
 
 ### Languages and Tools:
 <p align="left"><img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="22" height="22"/> 
-    <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="22" height="22"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> 
+    <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="22" height="22"/>
+   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="22" height="22"/> 
+  
  
   
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/>
+  
 
 
 ### Connect with me:
