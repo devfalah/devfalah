@@ -34,18 +34,13 @@
 #### Version Controls :
 <p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> 
    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="git" width="22" height="22"/> 
+     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="22" height="22"/> 
     
 
-### Languages and Tools:
-<p align="left"><img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="22" height="22"/> 
-    <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="22" height="22"/>
-   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="22" height="22"/> 
-  
- 
-  
-  
-
-
+#### Hosting :
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/>
+</details>
+<hr>
 ### Connect with me:
 [<img align="left" alt="devfalah | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="devfalah | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
