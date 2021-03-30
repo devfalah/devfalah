@@ -12,7 +12,17 @@
    <img src="https://media2.giphy.com/media/H4ETAwCJs7S9mdrFFW/giphy.gif" alt="gif" width="450" />
 
 
+-->
+<details>
+  <summary>Some interesting facts about me!</summary>
+  <br>
+  - While Coding, Listening Music and developing useful code. ⭐️
 
+  - Watchin Youtube, Reading Books, Action, Comics,Historical Fiction, Romance, History books.
+
+  - Learning programming and getting knowledge about AI & ML.
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=devfalah&show_icons=true)
 
 ### Languages and Tools:
 <p align="left"><img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="22" height="22"/> 
