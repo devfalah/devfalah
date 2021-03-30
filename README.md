@@ -27,6 +27,9 @@
 #### Programming language i am using :
  <p align="left"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/>
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="22" height="22"/>
+   
+#### Frameworks  i am using :
+  <p align="left"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/>
 
 
 
@@ -35,7 +38,7 @@
     <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> 
  
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/>
+  
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/>
 
 
