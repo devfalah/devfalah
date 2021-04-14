@@ -6,7 +6,7 @@
 ## I'm a  Developer!
 
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Flutter
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: **After three days without programming, life becomes meaningless.**
    <img src="https://media2.giphy.com/media/H4ETAwCJs7S9mdrFFW/giphy.gif" alt="gif" width="450" />
