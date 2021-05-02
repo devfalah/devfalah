@@ -2,6 +2,7 @@
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/devfalah?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=devfalah)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=devfalah.devfalah)
 
 ## I'm a  Developer!
 
@@ -21,7 +22,7 @@
 
   - Learning programming and getting knowledge about Flutter.
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=devfalah&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=devfalah&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 #### Programming language i am using :
  <p align="left"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/>
